@@ -1,0 +1,5 @@
+{
+  "name": "Mafia Online",
+  "description": "A real-time multiplayer social deduction game where players work together to find the hidden Mafia members before it's too late.",
+  "requestFramePermissions": []
+}
